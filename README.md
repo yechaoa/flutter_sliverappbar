@@ -161,13 +161,19 @@ SliverAppBar 类似于Android中的`CollapsingToolbarLayout`，可以轻松实�
   
 ## 各种滑动效果演示
 -  floating: false, pinned: true, snap: false:
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190530164855105.gif)
+
 - floating: true, pinned: true, snap: true:
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190530165306621.gif)
 
 - floating: false, pinned: false, snap: false:
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190530165750322.gif)
+
 - floating: true, pinned: false, snap: false:
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190530165936841.gif)
 
 
@@ -280,7 +286,10 @@ SliverAppBar 类似于Android中的`CollapsingToolbarLayout`，可以轻松实�
   
 
 ok，以上的效果基本满足日常开发需求了，也可以自己改改属性测试效果。
-
+ 
+ <br>
+  
+csdn:https://blog.csdn.net/yechaoa/article/details/90701321
 
  <br>
   
